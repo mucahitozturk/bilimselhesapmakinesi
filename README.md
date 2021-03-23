@@ -1,6 +1,6 @@
 # Bilimsel Hesap Makinesi
 
-> Sakarya Üniversitesi Nesneye Dayalı Programlama dersi için C# ile geliştirdiğim bilimsel hesap makinesi programıdır.
+> Sakarya Üniversitesi Nesneye Dayalı Programlama dersi için C# ile geliştirdiğim bilimsel hesap makinesi programıdır. Microsoft Visual Studio ortamında geliştirilmiştir.
 
 ## Demo
 
